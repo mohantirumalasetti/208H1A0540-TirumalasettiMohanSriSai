@@ -1,3 +1,3 @@
-# 20H1A0540-TirumalasettiMohanSriSai
+# [20H1A0540] Tirumalasetti Mohan Sri Sai
 
-## CyberSecurity LongTermInternship
+## Cyber Security Long Term Internship
